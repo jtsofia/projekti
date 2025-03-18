@@ -1,7 +1,10 @@
 **Short synopsis of the webpage (1-6).**
 
   1.The landing page has the title and two boxes (below). One for registering a new user and one for signing in.
-  
+  ![Screenshot 2025-03-18 152625](https://github.com/user-attachments/assets/764f4485-e9a2-431f-9654-d31670ec334c)
+  ![Screenshot 2025-03-18 152643](https://github.com/user-attachments/assets/a6b971dc-eebf-4c66-b919-a217672f11db)
+
+
   
   2.After a successful registering the website shows a popup to let the user know about it (below).
   
