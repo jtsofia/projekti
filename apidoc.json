@@ -1,0 +1,9 @@
+{
+  "name": "My API Documentation",
+  "version": "1.0.0",
+  "description": "Documentation for my API endpoints",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
